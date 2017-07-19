@@ -6,6 +6,7 @@ From [Codewars.com](www.codewars.com/):
 - July 10th 2017 - [Sum Of Numbers](/CodeWars/sum-of-numbers.js)
 - July 11th 2017 - [Dubstep](/CodeWars/dubstep.js)
 - July 18th 2017 - [Isograms](/CodeWars/isograms.js)
+- July 19th 2017 - [Credit Card Mask](/CodeWars/creditcard.js)
 
 From [JavaScript30](https://javascript30.com/):
 - [x] 1 - [JavaScript Drum Kit](/JavaScript30/1-drum-kit/)
