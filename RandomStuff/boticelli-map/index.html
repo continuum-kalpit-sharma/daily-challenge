@@ -5,6 +5,7 @@
         <title>Boticelli Map</title>
         <link rel="stylesheet" href="./style.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.5/handlebars.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
     </head>
     <body>
         <h1>Boticelli's Spring</h1>
@@ -12,19 +13,21 @@
             <h2 id="title">Explore!</h2>
             <p id="description">Mouse over the image and learn more about this masterpiece</p>
         </div>
-        <img src="primavera.jpg" width="1000" alt="primavera" usemap="#primavera-map"/>
-        <map name="primavera-map">
-            <area shape="rect" coords="15, 15, 165, 315" alt="mercure">
-            <area shape="rect" coords="240, 150, 305, 205" alt="hands">
-            <area shape="circle" coords="180, 2015, 65" alt="castitas">
-            <area shape="circle" coords="250, 225, 65" alt="voluptas">
-            <area shape="circle" coords="340, 200, 65" alt="pulchritudo">
-            <area shape="rect" coords="160, 300, 430, 600" alt="sisters">
-            <area shape="rect" coords="425, 0, 600, 85" alt="cupidon">
-            <area shape="rect" coords="600, 180, 715, 630" alt="flore">
-            <area shape="rect" coords="460, 140, 600, 530" alt="venus">
-            <area shape="rect" coords="760, 100, 1000, 240" alt="zéphyr">
-        </map>
+        <section id="image-section">
+            <img src="primavera.jpg" width="1000" alt="primavera" usemap="#primavera-map"/>
+            <map name="primavera-map">
+                <area shape="rect" coords="15, 15, 165, 315" alt="mercure">
+                <area shape="rect" coords="240, 150, 305, 205" alt="hands">
+                <area shape="circle" coords="180, 2015, 65" alt="castitas">
+                <area shape="circle" coords="250, 225, 65" alt="voluptas">
+                <area shape="circle" coords="340, 200, 65" alt="pulchritudo">
+                <area shape="rect" coords="160, 300, 430, 600" alt="sisters">
+                <area shape="rect" coords="425, 0, 600, 85" alt="cupidon">
+                <area shape="rect" coords="600, 180, 715, 630" alt="flore">
+                <area shape="rect" coords="460, 140, 600, 530" alt="venus">
+                <area shape="rect" coords="760, 100, 1000, 240" alt="zéphyr">
+            </map>
+        </section>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
         <script type="text/javascript" src="./script.js"></script>
     </body>
