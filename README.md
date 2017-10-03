@@ -5,6 +5,9 @@ A challenge a day keeps the memory loss away? Is that how the saying goes? Anywa
 Just some [random stuff](/RandomStuff/) I chose to make:
 - August 23rd 2017 - [Mapping Boticelli](/RandomStuff/boticelli-map/)
 
+From [GeekTrust.in](https://www.geektrust.in/):
+- [King Shan's Family Tree](/GeekTrust/KingShanFamily/)
+
 From [Codewars.com](www.codewars.com/):
 - July 10th 2017 - [Sum Of Numbers](/CodeWars/sum-of-numbers.js)
 - July 11th 2017 - [Dubstep](/CodeWars/dubstep.js)
